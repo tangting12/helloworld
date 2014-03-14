@@ -3,3 +3,4 @@ test git diff HEAD
 test git diff
 
 masterbranchfirst
+masterbranchsecond
