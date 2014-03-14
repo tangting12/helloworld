@@ -1,1 +1,2 @@
-add txt testcheckout
+add txt testcheckout git diff
+
